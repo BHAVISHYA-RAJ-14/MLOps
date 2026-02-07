@@ -7,7 +7,7 @@ A production-ready machine learning pipeline for predicting employee attrition u
 ![DVC](https://img.shields.io/badge/DVC-Enabled-purple)
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-green)
 
----
+----
 
 ## 📋 Table of Contents
 
