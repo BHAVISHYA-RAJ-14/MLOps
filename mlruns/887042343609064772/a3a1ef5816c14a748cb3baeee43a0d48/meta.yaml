@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Shaswat Jaiswal/Desktop/MLOps/mlruns/887042343609064772/a3a1ef5816c14a748cb3baeee43a0d48/artifacts
+end_time: 1770430407437
+entry_point_name: ''
+experiment_id: '887042343609064772'
+lifecycle_stage: active
+run_id: a3a1ef5816c14a748cb3baeee43a0d48
+run_name: model_evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770430404638
+status: 3
+tags: []
+user_id: Shaswat Jaiswal

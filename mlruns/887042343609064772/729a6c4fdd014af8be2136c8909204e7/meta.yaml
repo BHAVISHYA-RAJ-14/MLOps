@@ -1,8 +1,9 @@
 artifact_uri: file:C:/Users/Shaswat Jaiswal/Desktop/MLOps/mlruns/887042343609064772/729a6c4fdd014af8be2136c8909204e7/artifacts
+deleted_time: 1770432693712
 end_time: 1770429033280
 entry_point_name: ''
 experiment_id: '887042343609064772'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 729a6c4fdd014af8be2136c8909204e7
 run_name: model_evaluation
 source_name: ''

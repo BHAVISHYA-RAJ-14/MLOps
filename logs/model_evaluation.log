@@ -63,3 +63,42 @@
 2026-02-07 07:27:05,997 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
 2026-02-07 07:27:05,998 - model_evaluation - INFO - Model evaluation completed successfully!
 2026-02-07 07:27:05,998 - model_evaluation - INFO - Final Accuracy: 0.7466
+2026-02-07 07:42:37,658 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-02-07 07:42:37,738 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-07 07:42:37,750 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv with shape (2980, 35)
+2026-02-07 07:42:37,818 - model_evaluation - DEBUG - Model evaluation metrics:
+2026-02-07 07:42:37,818 - model_evaluation - DEBUG -   accuracy: 0.7466
+2026-02-07 07:42:37,819 - model_evaluation - DEBUG -   precision: 0.7297
+2026-02-07 07:42:37,819 - model_evaluation - DEBUG -   recall: 0.7354
+2026-02-07 07:42:37,819 - model_evaluation - DEBUG -   f1_score: 0.7326
+2026-02-07 07:42:37,819 - model_evaluation - DEBUG -   auc: 0.8388
+2026-02-07 07:42:41,501 - model_evaluation - DEBUG - MLflow run completed
+2026-02-07 07:42:41,503 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-02-07 07:42:41,504 - model_evaluation - INFO - Model evaluation completed successfully!
+2026-02-07 07:42:41,504 - model_evaluation - INFO - Final Accuracy: 0.7466
+2026-02-07 07:43:23,920 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-02-07 07:43:23,997 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-07 07:43:24,008 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv with shape (2980, 35)
+2026-02-07 07:43:24,076 - model_evaluation - DEBUG - Model evaluation metrics:
+2026-02-07 07:43:24,076 - model_evaluation - DEBUG -   accuracy: 0.7477
+2026-02-07 07:43:24,076 - model_evaluation - DEBUG -   precision: 0.7303
+2026-02-07 07:43:24,076 - model_evaluation - DEBUG -   recall: 0.7376
+2026-02-07 07:43:24,076 - model_evaluation - DEBUG -   f1_score: 0.7339
+2026-02-07 07:43:24,077 - model_evaluation - DEBUG -   auc: 0.8378
+2026-02-07 07:43:27,436 - model_evaluation - DEBUG - MLflow run completed
+2026-02-07 07:43:27,440 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-02-07 07:43:27,441 - model_evaluation - INFO - Model evaluation completed successfully!
+2026-02-07 07:43:27,441 - model_evaluation - INFO - Final Accuracy: 0.7477
+2026-02-07 08:17:50,559 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-02-07 08:17:50,660 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-02-07 08:17:50,671 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_final.csv with shape (2980, 35)
+2026-02-07 08:17:50,740 - model_evaluation - DEBUG - Model evaluation metrics:
+2026-02-07 08:17:50,742 - model_evaluation - DEBUG -   accuracy: 0.7466
+2026-02-07 08:17:50,742 - model_evaluation - DEBUG -   precision: 0.7297
+2026-02-07 08:17:50,742 - model_evaluation - DEBUG -   recall: 0.7354
+2026-02-07 08:17:50,742 - model_evaluation - DEBUG -   f1_score: 0.7326
+2026-02-07 08:17:50,742 - model_evaluation - DEBUG -   auc: 0.8388
+2026-02-07 08:17:54,435 - model_evaluation - DEBUG - MLflow run completed
+2026-02-07 08:17:54,438 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json
+2026-02-07 08:17:54,438 - model_evaluation - INFO - Model evaluation completed successfully!
+2026-02-07 08:17:54,438 - model_evaluation - INFO - Final Accuracy: 0.7466

@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/Shaswat Jaiswal/Desktop/MLOps/mlruns/887042343609064772/models/m-d4a863be0655436eb81e63c8f87994dc/artifacts
+creation_timestamp: 1770432471393
+experiment_id: '887042343609064772'
+last_updated_timestamp: 1770432474429
+model_id: m-d4a863be0655436eb81e63c8f87994dc
+model_type: null
+name: model
+source_run_id: 22b43768a2844c008b78afcef548866a
+status: 2
+status_message: null

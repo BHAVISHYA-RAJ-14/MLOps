@@ -22,3 +22,19 @@
 2026-02-07 06:53:26,170 - model_building - DEBUG - Model training completed
 2026-02-07 06:53:26,228 - model_building - DEBUG - Model saved to models/model.pkl
 2026-02-07 06:53:26,228 - model_building - INFO - Model building completed successfully!
+2026-02-07 07:43:21,650 - model_building - DEBUG - Parameters retrieved from params.yaml
+2026-02-07 07:43:21,690 - model_building - DEBUG - Data loaded from ./data/processed/train_final.csv with shape (11920, 35)
+2026-02-07 07:43:21,698 - model_building - DEBUG - Training data: X=(11920, 34), y=(11920,)
+2026-02-07 07:43:21,698 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 100, 'max_depth': 10, 'random_state': 0}
+2026-02-07 07:43:21,698 - model_building - DEBUG - Model training started with 11920 samples and 34 features
+2026-02-07 07:43:21,915 - model_building - DEBUG - Model training completed
+2026-02-07 07:43:21,924 - model_building - DEBUG - Model saved to models/model.pkl
+2026-02-07 07:43:21,925 - model_building - INFO - Model building completed successfully!
+2026-02-07 07:45:29,980 - model_building - DEBUG - Parameters retrieved from params.yaml
+2026-02-07 07:45:30,017 - model_building - DEBUG - Data loaded from ./data/processed/train_final.csv with shape (11920, 35)
+2026-02-07 07:45:30,024 - model_building - DEBUG - Training data: X=(11920, 34), y=(11920,)
+2026-02-07 07:45:30,024 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 100, 'max_depth': 10, 'random_state': 42}
+2026-02-07 07:45:30,024 - model_building - DEBUG - Model training started with 11920 samples and 34 features
+2026-02-07 07:45:30,234 - model_building - DEBUG - Model training completed
+2026-02-07 07:45:30,241 - model_building - DEBUG - Model saved to models/model.pkl
+2026-02-07 07:45:30,241 - model_building - INFO - Model building completed successfully!

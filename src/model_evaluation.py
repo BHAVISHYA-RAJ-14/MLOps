@@ -161,7 +161,7 @@ def main():
             # Log the model
             mlflow.sklearn.log_model(
                 sk_model=clf,
-                artifact_path="model"
+                name="model"
             )
             
             logger.debug('MLflow run completed')
