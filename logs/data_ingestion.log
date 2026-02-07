@@ -1,0 +1,7 @@
+2026-02-07 06:52:12,317 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-02-07 06:52:12,352 - data_ingestion - DEBUG - Data loaded from test.csv with shape (14900, 24)
+2026-02-07 06:52:12,361 - data_ingestion - DEBUG - Dropped Employee ID column
+2026-02-07 06:52:12,361 - data_ingestion - DEBUG - Initial data preprocessing completed. Shape: (14900, 23)
+2026-02-07 06:52:12,446 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-02-07 06:52:12,447 - data_ingestion - DEBUG - Train shape: (11920, 23), Test shape: (2980, 23)
+2026-02-07 06:52:12,447 - data_ingestion - INFO - Data ingestion completed successfully!

@@ -1,0 +1,40 @@
+2026-02-07 06:52:14,232 - data_preprocessing - DEBUG - Data loaded: train=(11920, 23), test=(2980, 23)
+2026-02-07 06:52:14,233 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame with shape (11920, 23)
+2026-02-07 06:52:14,251 - data_preprocessing - DEBUG - Ordinal encoded column: Work-Life Balance
+2026-02-07 06:52:14,253 - data_preprocessing - DEBUG - Ordinal encoded column: Job Satisfaction
+2026-02-07 06:52:14,254 - data_preprocessing - DEBUG - Ordinal encoded column: Performance Rating
+2026-02-07 06:52:14,256 - data_preprocessing - DEBUG - Ordinal encoded column: Job Level
+2026-02-07 06:52:14,258 - data_preprocessing - DEBUG - Ordinal encoded column: Company Size
+2026-02-07 06:52:14,259 - data_preprocessing - DEBUG - Ordinal encoded column: Company Reputation
+2026-02-07 06:52:14,260 - data_preprocessing - DEBUG - Ordinal encoded column: Employee Recognition
+2026-02-07 06:52:14,261 - data_preprocessing - DEBUG - Binary encoded column: Gender
+2026-02-07 06:52:14,262 - data_preprocessing - DEBUG - Binary encoded column: Overtime
+2026-02-07 06:52:14,263 - data_preprocessing - DEBUG - Binary encoded column: Remote Work
+2026-02-07 06:52:14,265 - data_preprocessing - DEBUG - Binary encoded column: Leadership Opportunities
+2026-02-07 06:52:14,266 - data_preprocessing - DEBUG - Binary encoded column: Innovation Opportunities
+2026-02-07 06:52:14,267 - data_preprocessing - DEBUG - Binary encoded column: Attrition
+2026-02-07 06:52:14,275 - data_preprocessing - DEBUG - One-hot encoded column: Job Role
+2026-02-07 06:52:14,281 - data_preprocessing - DEBUG - One-hot encoded column: Education Level
+2026-02-07 06:52:14,286 - data_preprocessing - DEBUG - One-hot encoded column: Marital Status
+2026-02-07 06:52:14,286 - data_preprocessing - DEBUG - Preprocessing completed. Final shape: (11920, 30)
+2026-02-07 06:52:14,287 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame with shape (2980, 23)
+2026-02-07 06:52:14,294 - data_preprocessing - DEBUG - Ordinal encoded column: Work-Life Balance
+2026-02-07 06:52:14,294 - data_preprocessing - DEBUG - Ordinal encoded column: Job Satisfaction
+2026-02-07 06:52:14,295 - data_preprocessing - DEBUG - Ordinal encoded column: Performance Rating
+2026-02-07 06:52:14,295 - data_preprocessing - DEBUG - Ordinal encoded column: Job Level
+2026-02-07 06:52:14,295 - data_preprocessing - DEBUG - Ordinal encoded column: Company Size
+2026-02-07 06:52:14,296 - data_preprocessing - DEBUG - Ordinal encoded column: Company Reputation
+2026-02-07 06:52:14,297 - data_preprocessing - DEBUG - Ordinal encoded column: Employee Recognition
+2026-02-07 06:52:14,297 - data_preprocessing - DEBUG - Binary encoded column: Gender
+2026-02-07 06:52:14,297 - data_preprocessing - DEBUG - Binary encoded column: Overtime
+2026-02-07 06:52:14,298 - data_preprocessing - DEBUG - Binary encoded column: Remote Work
+2026-02-07 06:52:14,300 - data_preprocessing - DEBUG - Binary encoded column: Leadership Opportunities
+2026-02-07 06:52:14,300 - data_preprocessing - DEBUG - Binary encoded column: Innovation Opportunities
+2026-02-07 06:52:14,301 - data_preprocessing - DEBUG - Binary encoded column: Attrition
+2026-02-07 06:52:14,303 - data_preprocessing - DEBUG - One-hot encoded column: Job Role
+2026-02-07 06:52:14,304 - data_preprocessing - DEBUG - One-hot encoded column: Education Level
+2026-02-07 06:52:14,306 - data_preprocessing - DEBUG - One-hot encoded column: Marital Status
+2026-02-07 06:52:14,307 - data_preprocessing - DEBUG - Preprocessing completed. Final shape: (2980, 30)
+2026-02-07 06:52:14,309 - data_preprocessing - DEBUG - Columns aligned. Train: (11920, 30), Test: (2980, 30)
+2026-02-07 06:52:14,386 - data_preprocessing - INFO - Data preprocessing completed successfully!
+2026-02-07 06:52:14,386 - data_preprocessing - DEBUG - Processed data saved to ./data\interim

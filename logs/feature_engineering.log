@@ -1,0 +1,16 @@
+2026-02-07 06:52:16,038 - feature_engineering - DEBUG - Data loaded from ./data/interim/train_processed.csv with shape (11920, 30)
+2026-02-07 06:52:16,049 - feature_engineering - DEBUG - Data loaded from ./data/interim/test_processed.csv with shape (2980, 30)
+2026-02-07 06:52:16,050 - feature_engineering - DEBUG - Created Income_Per_Year feature
+2026-02-07 06:52:16,054 - feature_engineering - DEBUG - Created Tenure_Ratio feature
+2026-02-07 06:52:16,056 - feature_engineering - DEBUG - Created Age_Group features
+2026-02-07 06:52:16,056 - feature_engineering - DEBUG - Created Promotions_Per_Year feature
+2026-02-07 06:52:16,058 - feature_engineering - DEBUG - Created Income_Per_Year feature
+2026-02-07 06:52:16,059 - feature_engineering - DEBUG - Created Tenure_Ratio feature
+2026-02-07 06:52:16,060 - feature_engineering - DEBUG - Created Age_Group features
+2026-02-07 06:52:16,060 - feature_engineering - DEBUG - Created Promotions_Per_Year feature
+2026-02-07 06:52:16,070 - feature_engineering - DEBUG - Scaled columns: ['Age', 'Years at Company', 'Monthly Income', 'Number of Promotions', 'Distance from Home', 'Number of Dependents', 'Company Tenure', 'Income_Per_Year', 'Tenure_Ratio', 'Promotions_Per_Year']
+2026-02-07 06:52:16,072 - feature_engineering - DEBUG - Scaler saved to models/scaler.pkl
+2026-02-07 06:52:16,225 - feature_engineering - DEBUG - Data saved to ./data/processed/train_final.csv
+2026-02-07 06:52:16,271 - feature_engineering - DEBUG - Data saved to ./data/processed/test_final.csv
+2026-02-07 06:52:16,271 - feature_engineering - INFO - Feature engineering completed successfully!
+2026-02-07 06:52:16,271 - feature_engineering - DEBUG - Final train shape: (11920, 35), test shape: (2980, 35)
